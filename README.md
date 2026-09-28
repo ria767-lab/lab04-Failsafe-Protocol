@@ -38,7 +38,7 @@ Git could not automatically combine the changes because multiple members edited 
 
 
 
-##Git Contribution Summary
+## Git Contribution Summary
 
 The following results were obtained using git shortlog -sn HEAD:
 
@@ -47,7 +47,7 @@ The following results were obtained using git shortlog -sn HEAD:
  5  Fode Lamine Fofana
  1  ria767-lab
 
-Reflection Questions
+## Reflection Questions
 
 1. Why was your push rejected, and how did you fix it?
 
